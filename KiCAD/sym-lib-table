@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPS61040DBVR")(type "KiCad")(uri "${KIPRJMOD}/scart_mega2_libs/TPS61040DBVR.kicad_sym")(options "")(descr ""))
+)
